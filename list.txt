@@ -6,10 +6,6 @@
 #
 # ===============================================================
 
-## Ads from porn sites ##
-playhubconnect.com
-chaseherbalpasty.com
-
 ## Ads from Google ##
 # (\.|^)googleadservices\.net$
 # (\.|^)googleads\.g\.doubleclick\.net$
