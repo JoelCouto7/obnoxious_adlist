@@ -32,3 +32,11 @@ chaseherbalpasty.com
 |127.0.0.1|pubads.g.doubleclick.net|
 |127.0.0.1|cm.g.doubleclick.net|
 |127.0.0.1|bid.g.doubleclick.net|
+
+## Ads from YouTube ##
+## YouTube ##
+# https://github.com/kboghdady/youTube_ads_4_pi-hole
+# https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/refs/heads/master/black.list
+# https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/refs/heads/master/crowed_list.txt
+# https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/refs/heads/master/ignore.list
+# https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/refs/heads/master/youtubelist.txt
