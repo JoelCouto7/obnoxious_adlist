@@ -7,13 +7,13 @@
 # ===============================================================
 
 ## Ads from porn sites ##
-https://playhubconnect.com
-https://chaseherbalpasty.com
+playhubconnect.com
+chaseherbalpasty.com
 
 ## Ads from Google ##
-(\.|^)googleadservices\.net$
-(\.|^)googleads\.g\.doubleclick\.net$
-(\.|^)googleadservices\.com$
+# (\.|^)googleadservices\.net$
+# (\.|^)googleads\.g\.doubleclick\.net$
+# (\.|^)googleadservices\.com$
 
 |127.0.0.1|www.googleadservices.com|
 |127.0.0.1|www.google-analytics.com|
