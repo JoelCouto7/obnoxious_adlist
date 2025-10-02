@@ -11,23 +11,59 @@
 # (\.|^)googleads\.g\.doubleclick\.net$
 # (\.|^)googleadservices\.com$
 
-|127.0.0.1|www.googleadservices.com|
-|127.0.0.1|www.google-analytics.com|
-|127.0.0.1|www.googletagmanager.com|
-|127.0.0.1|www.googletagservices.com|
-|127.0.0.1|ad.doubleclick.net|
-|127.0.0.1|ade.googlesyndication.com|
-|127.0.0.1|adservice.google.com|
-|127.0.0.1|googleads.g.doubleclick.net|
-|127.0.0.1|pagead2.googlesyndication.com|
-|127.0.0.1|googleads.g.doubleclick.net|
-|127.0.0.1|ade.googlesyndication.com|
-|127.0.0.1|4735610.fls.doubleclick.net|
-|127.0.0.1|8114842.fls.doubleclick.net|
-|127.0.0.1|securepubads.g.doubleclick.net|
-|127.0.0.1|pubads.g.doubleclick.net|
-|127.0.0.1|cm.g.doubleclick.net|
-|127.0.0.1|bid.g.doubleclick.net|
+#ADS
+0.0.0.0 www.googleadservices.com
+0.0.0.0 www.google-analytics.com
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 www.googletagservices.com
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 ade.googlesyndication.com
+0.0.0.0 adservice.google.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 ade.googlesyndication.com
+0.0.0.0 4735610.fls.doubleclick.net
+0.0.0.0 8114842.fls.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 bid.g.doubleclick.net
+
+#Malware
+0.0.0.0 www.digital-digest.com
+0.0.0.0 www.free-codecs.com
+0.0.0.0 subtitleseeker.com
+0.0.0.0 financereports.co
+0.0.0.0 tryteens.com
+0.0.0.0 iranact.co
+0.0.0.0 creativebookmark.com
+0.0.0.0 ffupdate.org
+0.0.0.0 vegweb.com
+0.0.0.0 delgets.com
+0.0.0.0 aitcaid.com
+0.0.0.0 advancedsportsandspine.com
+0.0.0.0 automotivemuseumguide.com
+0.0.0.0 brow-ser-update.top
+0.0.0.0 circle.innovativecsportal.com
+0.0.0.0 marvin-occentus.net
+0.0.0.0 photoshop-adobe.shop
+0.0.0.0 pluralism.themancav.com
+0.0.0.0 scada.paradizeconstruction.com
+0.0.0.0 storefixturesandsupplies.com
+0.0.0.0 1sale.com
+0.0.0.0 adsports.in
+0.0.0.0 alushtadom.com
+0.0.0.0 avtoresurs.net
+0.0.0.0 pamelasparrowchilds.com
+0.0.0.0 stimmwissenschaften.de
+0.0.0.0 truepublish.de
+0.0.0.0 www.eastsideautosalvage.com
+0.0.0.0 www.gtcartographic.co.uk
+0.0.0.0 www.logopaedie-tisch.homepage.t-online.de
+
+
+#Other
 
 ## Ads from YouTube ##
 ## YouTube ##
