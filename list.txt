@@ -1,8 +1,9 @@
 # Title: JoelCouto7 Obnoxious Hosts List
 #
 # This hosts file is a personal collection of hosts
+# The hosts listed here are from ads or malware sites
 #
-# Date: 02 October 2025
+# Date: 03 October 2025
 #
 # ===============================================================
 
@@ -10,6 +11,9 @@
 # (\.|^)googleadservices\.net$
 # (\.|^)googleads\.g\.doubleclick\.net$
 # (\.|^)googleadservices\.com$
+
+#Test
+www.marca.com
 
 #ADS
 0.0.0.0 www.googleadservices.com
