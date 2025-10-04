@@ -13,7 +13,7 @@
 # (\.|^)googleadservices\.com$
 
 #Test
-0.0.0.0 www.marca.com
+193.110.128.199 www.marca.com
 
 #ADS
 0.0.0.0 www.googleadservices.com
