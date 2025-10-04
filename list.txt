@@ -40,7 +40,15 @@
 0.0.0.0 www.digital-digest.com
 0.0.0.0 www.free-codecs.com
 0.0.0.0 s3.us-east-2.amazonaws.com
-0.0.0.0 www.exvagos.es
+
+0.0.0.0 descargas-vagos.com
+185.53.177.53 descargas-vagos.com.es
+0.0.0.0 www.descargas-vagos.com.es
+0.0.0.0 exvagos.com
+0.0.0.0 www.exvagos.com
+172.67.189.111 exvagos.es
+104.21.49.89 www.exvagos.es
+
 0.0.0.0 subtitleseeker.com
 0.0.0.0 financereports.co
 0.0.0.0 tryteens.com
